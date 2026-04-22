@@ -1,16 +1,22 @@
-## Hi there 👋
+# Kicau Kicau Mania
 
-<!--
-**kicau-kicau-mania/kicau-kicau-mania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di repositori **Kicau Kicau Mania**.  
+Tempat sederhana buat orang-orang yang menikmati dunia burung kicau tanpa banyak teori ribet.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tentang Proyek Ini
+
+Repositori ini berisi catatan dan pengalaman seputar:
+
+- Perawatan burung kicau
+- Pola makan dan racikan pakan
+- Setting sangkar dan lingkungan
+- Teknik pemasteran
+- Mengatasi burung macet bunyi
+
+Sebagian besar ditulis dari pengalaman langsung. Jadi ya, kadang tidak selalu ideal, tapi justru itu yang terasa nyata.
+
+---
+
+## Struktur Folder
